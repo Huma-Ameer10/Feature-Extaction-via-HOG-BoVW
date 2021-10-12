@@ -1,2 +1,6 @@
 # Packages
-![image](https://user-images.githubusercontent.com/92379160/136964923-a00e9da1-db4c-4d1b-85e3-95eedb3f9f4a.png)
+! pip uninstall opencv-python -y <br>
+! pip uninstall opencv-contrib-python -y <br>
+! pip install opencv-python==3.4.11.45 <br>
+! pip install opencv-contrib-python==3.4.11.45 <br>
+! pip install tqdm <br>
